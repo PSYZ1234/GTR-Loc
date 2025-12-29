@@ -48,7 +48,7 @@ data_root
 
 ## Train (Following LightLoc)
 
-We follow LightLoc to train the network.
+We follow LightLoc to train the network. Replace model.py with gtrloc.py.
 
 #### Oxford/QEOxford
 
